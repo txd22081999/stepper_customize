@@ -1,2 +1,2 @@
-# stepper_customize
+# wizard
 Created with CodeSandbox
